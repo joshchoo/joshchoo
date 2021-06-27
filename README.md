@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuous&count_private=true&show_icons=true)
+Previously went by @joshuous.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshchoo&count_private=true&show_icons=true)
 
 <!--
-**joshuous/joshuous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshchoo/joshchoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
