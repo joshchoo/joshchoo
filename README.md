@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Previously went by @joshuous.
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshchoo&count_private=true&show_icons=true)
 
 <!--
